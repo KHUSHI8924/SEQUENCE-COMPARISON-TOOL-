@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "edgecolor",
+        "pylot"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:SEQUENCE-COMPARISON-TOOL-}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
